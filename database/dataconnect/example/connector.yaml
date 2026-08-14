@@ -1,0 +1,8 @@
+connectorId: example
+generate:
+  javascriptSdk:
+    - outputDir: ../../Arya UI/Arya/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../Arya UI/Arya
+      react: false
+      angular: false
